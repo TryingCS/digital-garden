@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/🛠️/python📁/data structures/","dg-note-properties":{}}
 ---
 
+
 | Operation                    | Syntax           | List `[]` | Dict `{}`            | Tuple `()`    | Set `{}` |
 | ---------------------------- | ---------------- | --------- | -------------------- | ------------- | -------- |
 | **Create**                   | `x = [...]`      | ✅         | ✅                    | ✅             | ✅        |
