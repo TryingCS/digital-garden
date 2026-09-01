@@ -9,3 +9,6 @@ this rabbit hole started with me wanting to sync notes in preparation for the ne
 
 
 ![Belkais.png](/img/user/%D8%AE%D9%84%D9%81%D9%8A%D8%A7%D8%AA/Belkais.png)
+[[7️⃣/🗄️/BI ‽\|BI ‽]]
+[[📄/turath highlights\|turath highlights]]
+
