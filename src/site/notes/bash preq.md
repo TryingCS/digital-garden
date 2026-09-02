@@ -4,7 +4,7 @@
 
 #bash
 
-for **Linux, Docker, Big Data, cloud, security, and HPC**.
+for **Linux, Docker, Big Data, cloud, security, and #hpc**.
 
 ---
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/c preq/","dg-note-properties":{}}
 ---
 
-#c 
+[]()#c 
 for **low-level performance, memory control, and parallel computing**.
 
 ---
