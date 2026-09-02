@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/Root/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/garden/Root/","dg-note-properties":{}}
 ---
 
 **Hello to my new way excuse for ignoring college work !**
