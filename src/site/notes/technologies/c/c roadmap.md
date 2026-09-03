@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/c/c roadmap/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/c/c roadmap/","dg-note-properties":{}}
 ---
 
 #c 

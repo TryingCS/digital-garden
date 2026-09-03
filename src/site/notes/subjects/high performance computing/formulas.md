@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subjects/high performance computing/formulas/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/subjects/high performance computing/formulas/","dg-note-properties":{}}
 ---
 
 #hpc

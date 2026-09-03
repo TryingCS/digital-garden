@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/html/elements and attributes/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/html/elements and attributes/","dg-note-properties":{}}
 ---
 
 #html

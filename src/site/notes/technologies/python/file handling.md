@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/python/file handling/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/python/file handling/","dg-note-properties":{}}
 ---
 
 #python 

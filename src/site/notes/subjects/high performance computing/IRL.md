@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subjects/high performance computing/IRL/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/subjects/high performance computing/IRL/","dg-note-properties":{}}
 ---
 
 #hpc 

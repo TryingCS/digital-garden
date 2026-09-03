@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subjects/business intelligence/introduction ...why!/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/subjects/business intelligence/introduction ...why!/","dg-note-properties":{}}
 ---
 
 #BI

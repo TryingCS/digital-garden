@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/bash/Linux navigation/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/bash/Linux navigation/","dg-note-properties":{}}
 ---
 
 
