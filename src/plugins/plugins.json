@@ -14,6 +14,9 @@
     },
     "dg-math": {
       "enabled": true
+    },
+    "dg-search": {
+      "enabled": false
     }
   }
 }
