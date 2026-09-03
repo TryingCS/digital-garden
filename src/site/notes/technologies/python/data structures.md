@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/python/data structures/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/python/data structures/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #python 
