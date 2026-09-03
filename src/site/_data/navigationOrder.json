@@ -1,0 +1,62 @@
+{
+  "/": [
+    "subjects",
+    "technologies",
+    "z.other",
+    "Homepage",
+    "Semester 7 overview"
+  ],
+  "/subjects": [
+    "business intelligence",
+    "high performance computing",
+    "technical writing"
+  ],
+  "/subjects/business intelligence": [
+    "introduction ...why!"
+  ],
+  "/subjects/high performance computing": [
+    "clock speed vs SCP",
+    "Flynn’s Taxonomy",
+    "formulas",
+    "high performance computing",
+    "IRL",
+    "Laws",
+    "Single Data",
+    "Single Instruction"
+  ],
+  "/subjects/technical writing": [
+    "LaTeX crash course"
+  ],
+  "/technologies": [
+    "bash",
+    "c",
+    "html",
+    "python",
+    "sql",
+    "some free resources"
+  ],
+  "/technologies/bash": [
+    "bash roadmap",
+    "Linux navigation",
+    "permissions"
+  ],
+  "/technologies/c": [
+    "c roadmap"
+  ],
+  "/technologies/html": [
+    "elements and attributes"
+  ],
+  "/technologies/python": [
+    "data structures",
+    "file handling",
+    "for loops",
+    "getting input"
+  ],
+  "/technologies/sql": [
+    "sql map"
+  ],
+  "/z.other": [
+    "cericculem left",
+    "mint and Hanousse"
+  ]
+}
