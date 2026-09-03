@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/c/c preq/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/c/c preq/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #c 

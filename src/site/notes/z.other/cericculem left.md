@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z.other/cericculem left/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/z.other/cericculem left/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #S7 

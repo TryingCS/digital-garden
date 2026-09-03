@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subjects/high performance computing/high performance computing/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/subjects/high performance computing/high performance computing/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

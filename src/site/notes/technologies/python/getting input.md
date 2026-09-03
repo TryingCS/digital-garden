@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/python/getting input/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/python/getting input/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #python

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/some free resources/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/some free resources/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #S7 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologies/bash/bash map/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/technologies/bash/bash map/","noteIcon":"","dg-note-properties":{}}
 ---
 
 #bash
