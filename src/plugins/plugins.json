@@ -54,7 +54,10 @@
         "src/plugins/moc-nav/garden-plugin.json",
         "src/plugins/moc-nav/styles/moc-nav.scss",
         "src/plugins/moc-nav/templates/moc-nav.njk"
-      ]
+      ],
+      "settings": {
+        "heading": "Map of Content"
+      }
     },
     "recently-tended": {
       "repo": "oleeskild/garden-plugin-recently-tended",
