@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z.other/Semester 7 overview/","tags":["S7","gardenEntry"],"noteIcon":"","dg-note-properties":{"tags":["S7","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/z.other/Semester 7 overview/","tags":["S7"],"noteIcon":"","dg-note-properties":{"tags":["S7"]}}
 ---
 
 ![s7.jpg](/img/user/z.other/s7.jpg)
