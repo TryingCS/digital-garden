@@ -13,7 +13,7 @@
       }
     },
     "dg-math": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
