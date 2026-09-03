@@ -16,7 +16,7 @@
       "enabled": true
     },
     "dg-search": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
