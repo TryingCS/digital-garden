@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subjects/technical writing/LaTeX crash course/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/subjects/technical writing/LaTeX crash course/","dg-note-properties":{}}
 ---
 
 #technicalWritng 

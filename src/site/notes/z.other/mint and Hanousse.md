@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z.other/mint and Hanousse/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/z.other/mint and Hanousse/","dg-note-properties":{}}
 ---
 
 #pw #s8 

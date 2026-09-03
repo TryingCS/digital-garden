@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Homepage/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Homepage/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 some of *my* notes.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/subjects/high performance computing/Flynn’s Taxonomy/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/subjects/high performance computing/Flynn’s Taxonomy/","dg-note-properties":{}}
 ---
 
 #hpc 
