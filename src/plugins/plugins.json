@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "dg-filetree": {
-      "enabled": true
+      "enabled": false
     },
     "dg-timestamps": {
       "settings": {
@@ -53,6 +53,19 @@
         "src/plugins/copy-code-button/garden-plugin.json",
         "src/plugins/copy-code-button/styles/copy.scss",
         "src/plugins/copy-code-button/templates/copy.njk"
+      ]
+    },
+    "moc-nav": {
+      "repo": "oleeskild/garden-plugin-moc-nav",
+      "installedVersion": "1.0.1",
+      "installedRef": "v1.0.1",
+      "installedAt": "2026-09-03T09:52:13.615Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/moc-nav/README.md",
+        "src/plugins/moc-nav/garden-plugin.json",
+        "src/plugins/moc-nav/styles/moc-nav.scss",
+        "src/plugins/moc-nav/templates/moc-nav.njk"
       ]
     }
   }
