@@ -89,5 +89,3 @@ Let's say you're adding two arrays: `C = A + B`
 In the context of Flynn's Taxonomy, when we say:
 - **"Single Instruction"** → We mean the *same operation* is being performed (e.g., "ADD" everywhere)
 - **"Multiple Data"** → We mean that operation is applied to *many different values* simultaneously (e.g., adding millions of numbers)
-
-#hpc 
